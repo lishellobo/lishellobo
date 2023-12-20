@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Hey%20everyone&fontSize=40&animation=fadeIn)
-</div>
 
 
--   Hi there 👋
+
+ 👋
 * 👂 I'm Lishel...
 * 👩She/Her
 * 🚀 Working on an easy-to-navigate platform for government schemes
