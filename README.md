@@ -1,4 +1,7 @@
-![reversal](https://capsule-render.vercel.app/api?type=transparent&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+<div class="header">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20everyone&fontSize=20&rotate=-30" alt="Header">
+</div>
+
 
 -   Hi there 👋
 * 👂 I'm Lishel...
