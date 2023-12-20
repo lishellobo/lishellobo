@@ -1,14 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hey%20everyone&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hey%20everyone&fontSize=40&animation=fadeIn)
 
 
 
- 👋
-* 👂 I'm Lishel...
+  👋
+* 👂 I'm Lishel
 * 👩She/Her
 * 🚀 Working on an easy-to-navigate platform for government schemes
 * 🌱 I’m currently learning Frontend development
 * ❤️ I love to read books.Let's talk books and share recommendations
-*rfst7ccj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+* 🎓 College student
+* 🤔 Looking for open source to contribute.....
   
 
 <!---
