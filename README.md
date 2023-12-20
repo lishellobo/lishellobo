@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![reversal](https://capsule-render.vercel.app/api?type=venom&reversal=true&color=gradient)
 -   Hi there 👋
 * 👂 I'm Lishel...
 * 👩She/Her
