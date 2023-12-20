@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Hey%20everyone&fontSize=40&animation=fadeIn&desc=Desc&descSize=30))
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hey%20everyone&fontSize=40&animation=fadeIn)
 </div>
 
 
