@@ -2,8 +2,8 @@
 
 
 
-  👋
-* 👂 I'm Lishel
+  
+* 👋 I'm Lishel
 * 👩She/Her
 * 🚀 Working on an easy-to-navigate platform for government schemes
 * 🌱 I’m currently learning Frontend development
