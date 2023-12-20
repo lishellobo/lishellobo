@@ -19,7 +19,7 @@
 </p>
 
 
-![Lishel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishellobo&show_icons=true&theme=dark)
+![Lishel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishellobo&show_icons=true&theme=tokyonight)
   
 
 <!---
