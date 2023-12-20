@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+![header](https://capsule-render.vercel.app/api?text=hi!!)
 -   Hi there 👋
 * 👂 I'm Lishel...
 * 👩She/Her
