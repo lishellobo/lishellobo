@@ -17,7 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="45" height="45"/>
 </p>
-[![Lishel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishellobo)](https://github.com/lishellobo/github-readme-stats)
+
+
+![Lishel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishellobo&show_icons=true&theme=radical)
   
 
 <!---
