@@ -1,4 +1,4 @@
- <img src="https://media4.giphy.com/media/26ybxifUvcdzHSh7G/giphy.gif?cid=ecf05e47t0w2qyzha6y6myhgghfc2r9c3f3e1usc" width="200px">
+![header](https://capsule-render.vercel.app/api?color=auto)
 -   Hi there 👋
 * 👂 I'm Lishel...
 * 👩She/Her
