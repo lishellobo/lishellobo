@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=venom&reversal=true&color=gradient)
+![reversal](https://capsule-render.vercel.app/api?type=venom&text=Hey_Everyone&animation=fadeIn)
 -   Hi there 👋
 * 👂 I'm Lishel...
 * 👩She/Her
