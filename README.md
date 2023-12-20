@@ -20,6 +20,7 @@
 
 
 ![Lishel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishellobo&show_icons=true&theme=tokyonight)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
 
 <!---
