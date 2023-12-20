@@ -1,6 +1,11 @@
--  Hi, I’m lishel
--  I’m a beginner developer who is currently learning frontend development,
--  I'm interested in about learning web development
+
+-   Hi there 👋
+* 👂 I'm Lishel
+* 👩She/Her
+* 🚀 Working on an easy-to-navigate platform for government schemes
+* 🌱 I’m currently learning Frontend development
+* ❤️ I love to read books.Let's talk books and share recommendations
+  
 
 <!---
 lishellobo/lishellobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
