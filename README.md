@@ -1,5 +1,5 @@
 <div class="header">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20everyone&fontSize=20&rotate=-30" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hey%20everyone&fontSize=20&rotate=-30" alt="Header">
 </div>
 
 
