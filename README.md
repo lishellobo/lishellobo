@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hey%20everyone&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 
 -   Hi there 👋
 * 👂 I'm Lishel...
