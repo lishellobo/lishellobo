@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Hey%20everyone&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hey%20everyone&fontSize=40&animation=fadeIn)
 
 
 
