@@ -5,7 +5,7 @@
   
 * 👋 I'm Lishel
 * 👩She/Her
-* 🚀 Working on an easy-to-navigate platform for government schemes
+* 🚀 Working on .....
 * 🌱 I’m currently learning Frontend development
 * ❤️ I love to read books.Let's talk books and share recommendations
 * 🎓 College student
