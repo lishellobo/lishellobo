@@ -5,10 +5,10 @@
   
 * 👋 I'm Lishel
 * 👩She/Her
-* 🚀 Working on .....
+* 🚀 Working on building a blogging website
 * 🌱 I’m currently learning Frontend development
 * ❤️ I love to read books.Let's talk books and share recommendations
-* 🎓 College student
+* 🎓 College student!!
 * 🤔 Looking for open source to contribute.....
   <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
