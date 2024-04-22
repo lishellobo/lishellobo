@@ -5,8 +5,8 @@
   
 * 👋 I'm Lishel
 * 👩She/Her
-* 🚀 Working on building a blogging website
-* 🌱 I’m currently learning Frontend development
+* 🚀 Working on building a blogging RAG 
+* 🌱 I’m currently learning ML
 * ❤️ I love to read books.Let's talk books and share recommendations
 * 🎓 College student!!
 * 🤔 Looking for open source to contribute.....
