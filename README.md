@@ -6,7 +6,7 @@
 * 👋 I'm Lishel
 * 👩She/Her
 * 🚀 Working on building Learning Time Estimation Model
-* 🌱 I’m currently learning ML
+* 🌱 I’m currently learning ___
 * ❤️ I love to read books.Let's talk books and share recommendations
 * 🎓 College student!!
  
